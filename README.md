@@ -12,8 +12,8 @@ https://doi.org/10.1039/d3sm00693j
 ---
 
 ## Repository Contributors (Bayesian Optimization Methodology)
-- An-Tsun Wei
-- Hui Wang
+- An-Tsun Wei, Ph.D.
+- Hui Wang, Ph.D.
 
 ---
 
@@ -31,8 +31,8 @@ Liu, S., Wei, A. T., Wang, H., Van Winkle, D., & Lenhert, S. (2023). Combinatori
 
 ## Contact
 For permission requests, please contact:  
-- An-Tsun Wei (Email: ime-hlab@outlook.com)  
-- Hui Wang (Email: hwang10@eng.famu.fsu.edu)
+- An-Tsun Wei,Ph.D. (Email: ime-hlab@outlook.com)  
+- Hui Wang, Ph.D. (Email: hwang10@eng.famu.fsu.edu)
   
 FAMU-FSU College of Engineering
 Department of Industrial & Manufacturing Engineering
