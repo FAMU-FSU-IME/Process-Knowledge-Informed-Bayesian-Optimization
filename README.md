@@ -31,7 +31,7 @@ Liu, S., Wei, A. T., Wang, H., Van Winkle, D., & Lenhert, S. (2023). Combinatori
 
 ## Contact
 For permission requests, please contact:  
-- An-Tsun Wei,Ph.D. (Email: ime-hlab@outlook.com)  
+- An-Tsun Wei, Ph.D. (Email: ime-hlab@outlook.com)  
 - Hui Wang, Ph.D. (Email: hwang10@eng.famu.fsu.edu)
   
 FAMU-FSU College of Engineering
