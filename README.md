@@ -1,8 +1,6 @@
 # Soft-Matter-Bayesian-Optimization
 
-Python implementation of the Bayesian Optimization methodology developed for the papers:
-
-The methodology is based on the framework proposed in:
+Python implementation of the Bayesian Optimization methodology is based on the framework proposed in:
 
 **Improving Bayesian optimization via hierarchical variation modeling for combinatorial experiments given limited runs guided by process knowledge**
 
@@ -21,7 +19,7 @@ https://doi.org/10.1039/d3sm00693j
 
 ---
 
-## Repository Contributors (Bayesian Optimization Methodology)
+## Repository Contributors
 - An-Tsun Wei, Ph.D.
 - Hui Wang, Ph.D.
 
